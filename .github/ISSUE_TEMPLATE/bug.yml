@@ -5,10 +5,10 @@ labels: [Bug, Needs Triage]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+    label: Is there an existing thing for this?
+    description: Please search to see if an thing already exists for the bug you encountered.
     options:
-    - label: I have searched the existing tissues
+    - label: I have searched the existing thing
       required: true
 - type: textarea
   attributes:
