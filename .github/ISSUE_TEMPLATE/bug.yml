@@ -1,15 +1,12 @@
-name: 🐞 Bug
-description: File a bug/issue
-title: "[BUG] <title>"
-labels: [Bug, Needs Triage]
+name: Bug
+description: Report a game or official map bug
+title: ""
+labels: [bug]
 body:
-- type: checkboxes
+- type: markdown
   attributes:
-    label: Is there an existing thing for this?
-    description: Please search to see if an thing already exists for the bug you encountered.
-    options:
-    - label: I have searched the existing thing
-      required: true
+    value: |
+      Before we begin, please confirm there is not already an [issue](https://github.com/Tsuey/L4D2-Community-Update/issues) for this bug, and that it is not already [fixed](https://github.com/Tsuey/L4D2-Community-Update/tree/master/changelogs).
 - type: textarea
   attributes:
     label: Current Behavior
