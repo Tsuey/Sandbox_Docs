@@ -50,7 +50,7 @@ By [forking](https://github.com/Tsuey/L4D2-Community-Update/fork) a repository y
 &emsp;[Linking a PR to an issue if you are resolving one](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)<br/>
 &emsp;[Searching issues and PR's](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments)<br/>
 &emsp;[Writing good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)<br/>
-&emsp;[Git tutorials for merge issues [here](https://lab.github.com/githubtraining/managing-merge-conflicts) and for branching [here](https://learngitbranching.js.org/)<br/>
+&emsp;[Git tutorials for merge issues](https://lab.github.com/githubtraining/managing-merge-conflicts) and a [branching tutorial](https://learngitbranching.js.org/)<br/>
 
 ## Responsibility
 
