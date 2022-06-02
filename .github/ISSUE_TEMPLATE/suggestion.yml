@@ -15,6 +15,5 @@ body:
       Requests are preferably achievable [without C++ access](https://github.com/Tsuey/Sandbox_Docs/blob/main/CODE_OF_CONDUCT.md#Ingenuity), are focused, necessary, and useful to both modders and players.
 
       Keep in mind that the [least astonishing](https://github.com/Tsuey/Sandbox_Docs/blob/main/CONTRIBUTING.md#Submissions) solution is probably the best one.
-    render: markdown
   validations:
     required: true
