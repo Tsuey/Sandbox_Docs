@@ -45,11 +45,17 @@ When you submit your PR, enable the checkbox to [allow maintainer edits](https:/
 By [forking](https://github.com/Tsuey/L4D2-Community-Update/fork) a repository you make a copy of it for yourself that you can push changes to without affecting the original project. Forked repositories, or branches, are what you finally submit as a PR for review and merging.
 
 [About Pull Requests (PR's)](https://help.github.com/articles/about-pull-requests/)
+
 [Getting started with Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop)
+
 [How to fork a repository with Github Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop) or [command line](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
+
 [Linking a PR to an issue if you are resolving one](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+
 [Searching issues and PR's](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments)
+
 [Writing good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
 [Git tutorials for merge issues [here](https://lab.github.com/githubtraining/managing-merge-conflicts) and for branching [here](https://learngitbranching.js.org/)
 
 ## Responsibility
