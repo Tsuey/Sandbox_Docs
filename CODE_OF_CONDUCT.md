@@ -48,4 +48,6 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 If reporting vulnerabilities [directly to Valve](https://github.com/Tsuey/Sandbox_Docs/security/policy) feels like overkill, feel free to contact us instead.
 
+## Attribution
+
 Thank you [FireWolfBoy](https://steamcommunity.com/profiles/76561198124623521) for our [Mission Statement](/CODE_OF_CONDUCT.md#Mission-Statement).
