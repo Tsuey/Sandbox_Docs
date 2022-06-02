@@ -21,7 +21,7 @@ body:
       Is there a simple way to reproduce the bug?
 
       Please reduce the test-case as much as possible and specify if you are using any client or server mods.
-    placeholder: When I load <map> on this <gamemode> and do <this>...
+    placeholder: When I load <map> on <gamemode> and do <this>...
   validations:
     required: false
 - type: textarea
