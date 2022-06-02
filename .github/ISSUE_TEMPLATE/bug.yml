@@ -18,7 +18,7 @@ body:
   attributes:
     label: Reproduction steps
     description: |
-      Is there a simple way the bug to be reproduced?
+      Is there a simple way to reproduce the bug?
 
       Please reduce the test-case as much as possible and specify if you are using any client or server mods.
     placeholder: When I load <map> on this <gamemode> and do <this>...
