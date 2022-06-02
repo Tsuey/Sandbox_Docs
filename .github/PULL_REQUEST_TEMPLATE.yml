@@ -1,4 +1,4 @@
-name: Bug
+name: Bug_except_yaml
 description: Report a game or vanilla map bug
 labels: [bug]
 body:
