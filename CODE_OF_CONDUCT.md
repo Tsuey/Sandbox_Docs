@@ -42,10 +42,10 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 ## Contact
 
-- **Rayman** (Discord: `Rayman1103#9557`)
+- **Rayman1103** (Discord: `Rayman1103#9557`)
 - **shqke** (Discord: `shqke#2172`)
 - **Tsuey** (Discord: `G-Force#7777`)
 
-If reporting vulnerabilities [to Valve](/SECURITY.md) feels like overkill, feel free to contact us instead.
+If reporting vulnerabilities [to Valve](/security/policy) feels like overkill, feel free to contact us instead.
 
 Thank you [FireWolfBoy](https://steamcommunity.com/profiles/76561198124623521) for our [Mission Statement](/CODE_OF_CONDUCT.md#Mission-Statement).
